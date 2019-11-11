@@ -10,6 +10,7 @@ hugh0524 的个人博客
 
 ### 最新
 
+* [文章测试](http://newblog.uproject.cn/articles/2019/11/10/1573371797144.html)
 * [世界，你好！](http://newblog.uproject.cn/hello-solo)
 
 
