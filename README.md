@@ -10,6 +10,7 @@ hugh0524 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://newblog.uproject.cn/my-github-repos)
 * [文章测试](http://newblog.uproject.cn/articles/2019/11/10/1573371797144.html)
 * [世界，你好！](http://newblog.uproject.cn/hello-solo)
 
