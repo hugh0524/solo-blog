@@ -1,15 +1,17 @@
-<p align="center"><img alt="hugh0524 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-hugh0524 的个人博客
+<p align="center"><img alt="hugh 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+hugh 的个人博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="hugh0524 的个人博客" target="_blank" href="https://github.com/hugh0524/solo-blog"><img src="https://img.shields.io/github/last-commit/hugh0524/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<h4 align="center">uproject</h4>
+<p align="center"><a title="hugh 的个人博客" target="_blank" href="https://github.com/hugh0524/solo-blog"><img src="https://img.shields.io/github/last-commit/hugh0524/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/hugh0524/solo-blog"><img src="https://img.shields.io/github/repo-size/hugh0524/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/hugh0524/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [小程序](http://newblog.uproject.cn/xcx)
+* [专题](http://newblog.uproject.cn/articles/2019/11/14/1573702859258.html)
 * [修复弹窗或者toast在页面被嵌入iframe展示的问题](http://newblog.uproject.cn/articles/2019/10/17/1571286186229.html)
 * [骚年，你确定没有人在折腾你的站点吗？](http://newblog.uproject.cn/articles/2019/08/14/1565762611341.html)
 * [debian 安装npm报错：Unable to locate package npm.](http://newblog.uproject.cn/articles/2019/09/23/1569230913698.html)
@@ -28,8 +30,6 @@ hugh0524 的个人博客
 * [前端分级配置](http://newblog.uproject.cn/articles/2019/07/24/1563938627602.html)
 * [前端监控之轨迹回放功能](http://newblog.uproject.cn/articles/2019/05/13/1557720877077.html)
 * [利用sourceMap库还原错误堆栈](http://newblog.uproject.cn/articles/2019/07/18/1563414926541.html)
-* [备忘-http](http://newblog.uproject.cn/articles/2019/07/19/1563519185485.html)
-* [前端采坑点记录](http://newblog.uproject.cn/articles/2019/07/18/1563443618143.html)
 
 ### 热门
 
